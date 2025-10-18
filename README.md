@@ -100,3 +100,14 @@ Exploratory data analysis of road accident reports focused on identifying patter
 
 
 
+## Dashboard Screenshot
+
+<img width="1914" height="1010" alt="Image" src="https://github.com/user-attachments/assets/9de0fb41-e8a9-4997-b847-f41af003ef22" />
+
+
+
+<img width="1916" height="997" alt="Image" src="https://github.com/user-attachments/assets/8be3a748-843d-4806-8442-c5d8c42b52eb" />
+
+
+[🔗 Click here to view the live Tableau Dashboard](https://public.tableau.com/views/RoadAccidentsAnalysisinMillionPlusCities2020/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
